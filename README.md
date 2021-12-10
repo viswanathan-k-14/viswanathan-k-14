@@ -17,7 +17,7 @@ I'm Viswanathan, an aspiring software developer.
 <br/>
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+![](https://img.shields.io/badge/Php-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 <br/>
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 
