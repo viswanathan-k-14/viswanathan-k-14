@@ -2,7 +2,7 @@
 
 I'm Viswanathan, an aspiring software developer.
 
-[![Colin Pereira's Github States](https://github-readme-stats.vercel.app/api?username=colinpereira&show_icons=true&theme=react)](https://github.com/colinpereira/github-readme-stats)
+[![Viswanathan's Github States](https://github-readme-stats.vercel.app/api?username=colinpereira&show_icons=true&theme=react)](https://github.com/colinpereira/github-readme-stats)
 
 **Here are some of my skills** <br />
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
