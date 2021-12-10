@@ -15,15 +15,12 @@ I'm Viswanathan, an aspiring software developer.
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/Prisma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 <br/>
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/Sequelize-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 <br/>
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+
 
 **You can read more about me on my [website](https://viswanathan-k.netlify.app/) **
