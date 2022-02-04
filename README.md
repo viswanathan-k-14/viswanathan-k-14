@@ -4,7 +4,6 @@ I'm Viswanathan, an aspiring software developer.
 
 
 **Here are some of my skills** <br />
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
